@@ -1,7 +1,4 @@
 
-<!--
-**bumdigital/bumdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Felipe Pascoal!
 
 Entre as motivações para a área de tecnologia: programar para transformar e facilitar a vida das pessoas.

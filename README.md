@@ -9,5 +9,5 @@ Formado em Gestão de Marketing (Graduação), Programação Full Stack (Técnic
 
 Ferramentas tecnologias: HTML, CSS, Java Script, React JS, React Native, Bootstrap, Node JS, Java, Python, PHP, MySQL, Mongo DB e inglês intermediário.
 
-Website: https://bumdigital.github.io/lista-de-projetos/
-Linkedin: https://www.linkedin.com/in/felipe-pascoal-45532129/
+**Website:** https://bumdigital.github.io/lista-de-projetos/
+**Linkedin:** https://www.linkedin.com/in/felipe-pascoal-45532129/
